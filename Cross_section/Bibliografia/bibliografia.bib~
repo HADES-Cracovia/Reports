@@ -1,0 +1,47 @@
+@article{Lambda3.5,
+      author         = "Adamczewski-Musch, J. and others",
+      title          = "{Inclusive $\Lambda$ production in proton-proton
+                        collisions at 3.5 GeV}",
+      collaboration  = "HADES",
+      journal        = "Phys. Rev.",
+      volume         = "C95",
+      year           = "2017",
+      number         = "1",
+      pages          = "015207",
+      doi            = "10.1103/PhysRevC.95.015207",
+      eprint         = "1611.01040",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = ARXIV:1611.01040;%%"
+}
+
+@article{Ksi3.5,
+      author         = "Agakishiev, G. and others",
+      title          = "{Subthreshold $\Xi^-$ Production in Collisions of p(3.5 GeV)+Nb}",
+      journal        = "Phys. Rev. Lett.",
+      volume         = "114",
+      year           = "2015",
+      number         = "21",
+      pages          = "212301",
+      doi            = "10.1103/PhysRevLett.114.212301",
+      eprint         = "1501.03894",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = ARXIV:1501.03894;%%"
+}
+
+
+@article{Sigma3.5,
+      author         = "Adamczewski-Musch, J. and others ",
+      title          = "{$\sigma^0$ production in proton nucleus collisions near threshold}",
+
+}
+
+@book{Bornstein,
+author    = "Landolt-Börnstein", 
+  title     = {Total Cross-Sections for Reactions of High Energy Particles},
+  publisher = {Springer},
+  year      = 1988,
+  isbn      = { 978-3-540-18386-0 },
+  doi       = {10.1007/b33548}
+  }
